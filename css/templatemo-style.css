@@ -426,8 +426,8 @@ footer hr
     }
 .social-icon li a
     {
-        border-radius: 50%;
-        color: #606060;
+        border-radius: 100%;
+        color: ghostwhite;
         text-decoration: none;
         transition: all 0.4s ease-in-out;
         text-align: center;
